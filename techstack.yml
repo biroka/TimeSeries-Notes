@@ -1,7 +1,8 @@
 repo_name: biroka/TimeSeries-Notes
 report_id: 660212b4b7159b88601a8fe56a237b37
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:14:44+00:00'
+timestamp: '2024-01-04T14:58:27+00:00'
 requested_by: kyaiooiayk
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/biroka/TimeSeries-Notes
   detection_source: Repo Metadata
 - name: Jupyter
   description: Multi-language interactive computing environments.
@@ -25,4 +27,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/biroka/TimeSeries-Notes
   detection_source: Repo Metadata
